@@ -1,0 +1,5 @@
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\DMStoDEGdll\DMStoDEGdll\obj\Debug\DMStoDEGdll.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\DMStoDEGdll\DMStoDEGdll\bin\Debug\DMStoDEGdll.dll
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\DMStoDEGdll\DMStoDEGdll\bin\Debug\DMStoDEGdll.pdb
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\DMStoDEGdll\DMStoDEGdll\obj\Debug\DMStoDEGdll.dll
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\DMStoDEGdll\DMStoDEGdll\obj\Debug\DMStoDEGdll.pdb

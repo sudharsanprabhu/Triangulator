@@ -1,0 +1,9 @@
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\processdll\processdll\bin\Debug\processdll.dll
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\processdll\processdll\bin\Debug\processdll.pdb
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\processdll\processdll\obj\Debug\processdll.dll
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\processdll\processdll\obj\Debug\processdll.pdb
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\processdll\processdll\obj\Debug\processdll.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\processdll\processdll\bin\Debug\MathNet.Numerics.dll
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\processdll\processdll\bin\Debug\System.Threading.dll
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\processdll\processdll\bin\Debug\MathNet.Numerics.xml
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\processdll\processdll\bin\Debug\System.Threading.xml

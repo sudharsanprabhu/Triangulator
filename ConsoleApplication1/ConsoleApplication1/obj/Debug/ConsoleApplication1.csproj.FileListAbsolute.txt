@@ -1,0 +1,4 @@
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,9 @@
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Configure_Window\Configure_Window\bin\Debug\Configure_Window.exe.config
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Configure_Window\Configure_Window\bin\Debug\Configure_Window.exe
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Configure_Window\Configure_Window\bin\Debug\Configure_Window.pdb
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Configure_Window\Configure_Window\obj\Debug\Configure_Window.Configure.resources
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Configure_Window\Configure_Window\obj\Debug\Configure_Window.Properties.Resources.resources
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Configure_Window\Configure_Window\obj\Debug\Configure_Window.csproj.GenerateResource.Cache
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Configure_Window\Configure_Window\obj\Debug\Configure_Window.exe
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Configure_Window\Configure_Window\obj\Debug\Configure_Window.pdb
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Configure_Window\Configure_Window\obj\Debug\Configure_Window.csprojResolveAssemblyReference.cache

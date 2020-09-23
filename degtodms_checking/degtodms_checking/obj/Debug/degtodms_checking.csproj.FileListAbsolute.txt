@@ -1,0 +1,7 @@
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\degtodms_checking\degtodms_checking\bin\Debug\degtodms_checking.exe
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\degtodms_checking\degtodms_checking\bin\Debug\degtodms_checking.pdb
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\degtodms_checking\degtodms_checking\bin\Debug\DEGtoDMSdll.dll
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\degtodms_checking\degtodms_checking\bin\Debug\DEGtoDMSdll.pdb
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\degtodms_checking\degtodms_checking\obj\Debug\degtodms_checking.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\degtodms_checking\degtodms_checking\obj\Debug\degtodms_checking.exe
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\degtodms_checking\degtodms_checking\obj\Debug\degtodms_checking.pdb

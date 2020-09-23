@@ -1,0 +1,7 @@
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Main\Main\bin\Release\Main.exe
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Main\Main\bin\Release\Main.pdb
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Main\Main\obj\Release\Main.Form1.resources
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Main\Main\obj\Release\Main.Properties.Resources.resources
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Main\Main\obj\Release\Main.csproj.GenerateResource.Cache
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Main\Main\obj\Release\Main.exe
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Main\Main\obj\Release\Main.pdb

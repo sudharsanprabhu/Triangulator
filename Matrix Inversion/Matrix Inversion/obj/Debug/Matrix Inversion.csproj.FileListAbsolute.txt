@@ -1,0 +1,9 @@
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Matrix Inversion\Matrix Inversion\bin\Debug\Matrix Inversion.exe
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Matrix Inversion\Matrix Inversion\bin\Debug\Matrix Inversion.pdb
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Matrix Inversion\Matrix Inversion\bin\Debug\MathNet.Numerics.dll
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Matrix Inversion\Matrix Inversion\bin\Debug\System.Threading.dll
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Matrix Inversion\Matrix Inversion\bin\Debug\MathNet.Numerics.xml
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Matrix Inversion\Matrix Inversion\bin\Debug\System.Threading.xml
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Matrix Inversion\Matrix Inversion\obj\Debug\Matrix Inversion.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Matrix Inversion\Matrix Inversion\obj\Debug\Matrix Inversion.exe
+D:\DOCUMENTS\Visual Studio 2015\Projects\Triangulator\Matrix Inversion\Matrix Inversion\obj\Debug\Matrix Inversion.pdb
